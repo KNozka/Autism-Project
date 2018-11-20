@@ -42,6 +42,6 @@ ADD YOUR GITHUB ID TO THIS FILE, PLEASE FORK,EDIT and SEND A PULL REQUEST.
 | Nathan Steele	| Newcastle University|	8 |<userID> |
 | Michael Putra	| Newcastle University|	8 |<userID> |
 | Natalia Wojciak	| Newcastle University|	8 |<userID> |
-| Kat Nozka	| Newcastle University|	8 |<userID> |
+| Kat Nozka	| Newcastle University|	8 |KNozka|
 | Lukas Sysojevas |	Newcastle University|	8 |<userID> |
 | Dziugas Kiselius |	Newcastle University|	8 |<userID> |
